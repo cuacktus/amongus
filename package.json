@@ -4,8 +4,12 @@
   "description": "based on virejdasani",
   "version": "1.1.2",
   "publisher": "savrakadabra",
-  "homepage": "https://github.com/virejdasani/InYourFace",
+  "homepage": "https://github.com/cuacktus/amongus",
   "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/cuacktus/amongus"
+  },
   "engines": {
     "vscode": "^1.61.0"
   },
